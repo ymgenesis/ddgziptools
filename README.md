@@ -3,7 +3,7 @@ Two scripts allowing users to backup and compress disks to .gzip files, and rest
 
 **Warning**
 
-Any usage of dd can be very harmful *if* you don't know what you're doing. If you do, it's an amazingly powerful tool. If you've never used dd before, please read [dd Information"](https://github.com/ymgenesis/ddgziptools#dd-information) at the bottom before fooling around with it. She's sassy, and she'll bite ya.
+Any usage of dd can be very harmful *if* you don't know what you're doing. If you do, it's an amazingly powerful tool. If you've never used dd before, please read [dd Information](https://github.com/ymgenesis/ddgziptools#dd-information) at the bottom before fooling around with it. She's sassy, and she'll bite ya.
 
 # Detailed Usage
 
